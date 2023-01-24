@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Poppins', sans-serif;
+  font-size: 27px;
+  font-weight: 700;
+  background-color: #c1aba6;
+  padding: 15px;
+  place-items: center;
+}
+
+a {
+  color: #25283d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

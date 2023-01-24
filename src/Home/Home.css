@@ -1,0 +1,10 @@
+.home {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  background-color: #c1aba6;
+  place-items: center;
+  height: 93vh;
+}
